@@ -70,25 +70,6 @@ This project is architected using clean, modular code principles. It implements 
 | 🛡️ | **Safe Image Loading** | Custom `AssetPhoto` widget with an `errorBuilder` fallback, so no red error screens. |
 | 🎨 | **Material 3 Theming** | Centralised design tokens for a consistent forest-green identity. |
 
----
-
-## 📱 App Screenshots
-
-> 💡 **How to add your screenshots:** Create a folder named `screenshots/` in your repo, drop your images in it, and make sure the file names below match. They will then render automatically.
-
-<div align="center">
-
-| Splash Screen | Home Screen | List Screen | Detail Screen |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/splash.png" width="200" alt="Splash Screen"/> | <img src="screenshots/home.png" width="200" alt="Home Screen"/> | <img src="screenshots/list.png" width="200" alt="List Screen"/> | <img src="screenshots/detail.png" width="200" alt="Detail Screen"/> |
-| *Animated launch* | *Sliver header + action cards* | *10 destinations* | *Hero image + info* |
-
-| About Screen | Gallery Grid | Navigation Drawer | Web / Tablet View |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/about.png" width="200" alt="About Screen"/> | <img src="screenshots/gallery.png" width="200" alt="Gallery Grid"/> | <img src="screenshots/drawer.png" width="200" alt="Drawer"/> | <img src="screenshots/web.png" width="200" alt="Web View"/> |
-| *App info* | *6-photo grid* | *Close (✕) button included* | *Centered 520 px frame* |
-
-</div>
 
 ---
 
