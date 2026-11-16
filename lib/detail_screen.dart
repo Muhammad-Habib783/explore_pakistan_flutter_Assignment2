@@ -18,9 +18,9 @@ class DetailScreen extends StatelessWidget {
     final d = destination;
 
     return PageFrame(
-      // 👈 removed background: kPrimary
+
       child: Scaffold(
-        backgroundColor: Colors.white, // 👈 Changed to white
+        backgroundColor: Colors.white,
         body: CustomScrollView(
           slivers: [
             SliverAppBar(

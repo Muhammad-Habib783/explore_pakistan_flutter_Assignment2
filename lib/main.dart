@@ -18,7 +18,7 @@ class ExplorePakistanApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(seedColor: kPrimary),
-        scaffoldBackgroundColor: Colors.white, // 👈 Changed to white
+        scaffoldBackgroundColor: Colors.white,
         appBarTheme: const AppBarTheme(
           backgroundColor: kPrimary,
           foregroundColor: Colors.white,

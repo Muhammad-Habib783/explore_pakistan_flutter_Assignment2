@@ -11,7 +11,7 @@ class AboutScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return PageFrame(
       child: Scaffold(
-        backgroundColor: Colors.white, // 👈 Changed to white
+        backgroundColor: Colors.white,
         drawer: const AppDrawer(current: AppRoute.about),
         appBar: AppBar(
           leadingWidth: 104,

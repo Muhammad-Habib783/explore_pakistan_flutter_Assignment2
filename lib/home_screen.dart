@@ -36,7 +36,7 @@ class HomeScreen extends StatelessWidget {
             SliverAppBar(
               pinned: true,
               expandedHeight: 260,
-              // 👈 Removed the title from here so the image is clean
+
               flexibleSpace: FlexibleSpaceBar(
                 background: Stack(
                   fit: StackFit.expand,
@@ -61,7 +61,7 @@ class HomeScreen extends StatelessWidget {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    // 👈 Added "Explore Pakistan" below the image here
+
                     const Text(
                       'Explore Pakistan',
                       style: TextStyle(

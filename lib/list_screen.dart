@@ -12,7 +12,7 @@ class ListScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return PageFrame(
       child: Scaffold(
-        backgroundColor: Colors.white, // 👈 Changed to white
+        backgroundColor: Colors.white,
         drawer: const AppDrawer(current: AppRoute.list),
         appBar: AppBar(
           leadingWidth: 104,
